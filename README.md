@@ -26,7 +26,6 @@
 
 * \*\*Public Grievance Redressal System \*\*
   A web-based complaint management system designed to streamline the lodging, tracking, and resolution of college-related grievances.
-
   *Tech stack: MongoDB, Express, React, Node.js*
 
 ---
