@@ -34,7 +34,7 @@
 
 ## 📫 Contact Me
 
-* Email: msmmarathe21[@gmail.com](mailto:msmmarathe21@gmail.com)
+* Email: [msmmarathe21@gmail.com](mailto:msmmarathe21@gmail.com)
 * LinkedIn: [https://www.linkedin.com/in/mandar-marathe/](https://www.linkedin.com/in/mandar-marathe-5963bb294/)
 * LeetCode:[leetcode.com/u/mandar\_123/](https://leetcode.com/u/mandar_123/)
 * GitHub: [https://github.com/MandarSMarathe](https://github.com/MandarSMarathe)
